@@ -1,5 +1,5 @@
 -----Set up Project
-1.Extract file "project.rar".
+1.Extract file "Project_GoodFood_Tomato.rar".
 2.Use file "fpt_project_sem4_3.sql" to create the database. 
 3.Open and run project"project_tomato"
 4.Chose Login in the right corner of the top page.
